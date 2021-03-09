@@ -12,5 +12,10 @@ Encoding: UTF-8
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
+<<<<<<< HEAD
 # Review this file for important information about project
 # Project part of Udacity Programming with R nanodegree
+=======
+# created by James S Wood
+# created on March 04, 2021
+>>>>>>> refactoring
